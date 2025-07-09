@@ -28,7 +28,11 @@ ATGACACAATCATAAAGATATTGGGTTTGATCCTGGCCTCCTGCTCATTCATTATAATTTTCTTGAGGGGAATTATATTC
 
 
 
-I also built a Python tool using Biopython to run and parse BLAST results.
+
+I also built a Python tool using Biopython to run and parse BLAST results that:
+- Runs BLAST using Biopython
+- Saves and parses results
+- Prints the top 5 matches from NCBI
 
 code: (https://github.com/06-create/blast_tool_python)
 
