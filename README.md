@@ -1,11 +1,8 @@
-My Live Project Website: https://06-create.github.io/blast_practical/
 
 My First DNA Search Using BLAST
 
 By Purva Gaikwad  
 B.Tech Biotechnology | Aspiring Computational Biologist
-
-
 
 
 As a part of my first AI-based bioinformatics project, 
@@ -26,3 +23,13 @@ My Input Sequence (COX1 Gene)
 
 >Human_COX1_Full
 ATGACACAATCATAAAGATATTGGGTTTGATCCTGGCCTCCTGCTCATTCATTATAATTTTCTTGAGGGGAATTATATTCGA...
+
+
+
+
+
+I also built a Python tool using Biopython to run and parse BLAST results.
+
+code: (https://github.com/06-create/blast_tool_python)
+
+
