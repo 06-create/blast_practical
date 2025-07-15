@@ -5,7 +5,7 @@ By Purva Gaikwad
 B.Tech Biotechnology | Aspiring Computational Biologist
 
 
-As a part of my first AI-based bioinformatics project, 
+As a part of my first bioinformatics project, 
 I explored BLAST — a powerful DNA search tool — to see how a DNA sequence can be matched to known organisms.
 
 BLAST (Basic Local Alignment Search Tool) is like **Google for DNA**.
